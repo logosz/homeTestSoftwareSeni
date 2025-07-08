@@ -33,3 +33,6 @@ npx playwright test path/to/file_name.js
 ```sh
 npx playwright show-report
 ```
+
+Contact author for more details
+akbarrosyidhana@gmail.com
